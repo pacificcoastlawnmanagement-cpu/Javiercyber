@@ -21,4 +21,5 @@
 ---
 ### 🔬**Laps/Practice Tests**
 
-![TryHackMe Laps](<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d189902b-43f1-4bdf-b0f6-e044790db91d" />)
+![TryHackMe Laps](<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/45fd55eb-ec76-4b7c-838d-fa3ac047d407" />)
+
