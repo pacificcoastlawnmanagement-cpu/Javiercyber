@@ -21,4 +21,3 @@
 ---
 ### 🔬**Laps/Practice Tests**
 
-![alt text](https://github.com/pacificcoastlawnmanagement-cpu/Javiercyber/blob/719b3a4b2513b81989d43a582622619bdc50826d/Screen%20Shot%202025-11-04%20at%202.30.36%20PM.png)
