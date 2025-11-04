@@ -10,5 +10,9 @@
 💻Now, I’m pursuing a new career in cybersecurity, focusing on Red Teaming, Penetration Testing, and Incident Response.<br/>
 
 ---
-### 💻 **Progression and Projects**
-[TryHackMe](https://tryhackme.com/room/pentestingfundamentals)
+### 💻 **Fundamentals**
+🔍 [TryHackMe](https://tryhackme.com/room/pentestingfundamentals)
+
+📔 [TryHackMe](https://tryhackme.com/room/whatisnetworking)
+
+🔑[TryHackMe](https://tryhackme.com/room/pentestingfundamentals)
