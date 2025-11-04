@@ -1,5 +1,6 @@
 # 👋 **Welcome to My Cybersecurity Journal**
 
+---
 ### ✨ **Hi, I'm Javier**
 👔I’ve been an entrepreneur since my 20s, running several businesses with my wife (meal prep, nail salon, landscaping)<br/>
 
@@ -16,3 +17,8 @@
 📔 [TryHackMe](https://tryhackme.com/room/whatisnetworking)
 
 🔑[TryHackMe](https://tryhackme.com/room/pentestingfundamentals)
+
+---
+### 🔬**Laps/Practice Tests**
+
+![TryHackMe Laps](<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d189902b-43f1-4bdf-b0f6-e044790db91d" />)
