@@ -1,4 +1,4 @@
-# 👋 **Welcome to my Cybersecurity Journal**
+# 👋 **Welcome to My Cybersecurity Journal**
 
 ### **About me**
 👋 Hello Im Javier and just starting my cybersecurity career, currently learning and building hands-on experience</b><br>
